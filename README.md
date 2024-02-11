@@ -1,4 +1,5 @@
-- I am a data scientist specializing in machine learning and bioinformatics.
+I am a data scientist specializing in machine learning and bioinformatics. My experience includes analysis of DNA/RNA/Proteomic in plants and animals using statistical and machine learning methods.
+Moreover, I have developed and analyzed solutions for the efficacy of COVID-19 RT-PCR diagnositic testing.
 
 
 <!---
