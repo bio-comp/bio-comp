@@ -1,5 +1,4 @@
-I am a data scientist specializing in machine learning and bioinformatics. My experience includes analysis of DNA/RNA/Proteomic in plants and animals using statistical and machine learning methods.
-Moreover, I have developed and analyzed solutions for the efficacy of COVID-19 RT-PCR diagnositic testing.
+I am an AI/ML specialist with specific expertise in healthcare, genomics, and bioinformatics. My experience includes elucidating DNA/RNA/Proteomic processes, personalized medicine including cancer screening, pharmacogenomics, and diagnositic testing.
 
 
 <!---
