@@ -21,16 +21,17 @@ I am currently a **Staff Data Scientist at MCG Health**. Across my career, the r
 
 ## Tech Stack & Skills
 
-| Area | Tools & methods |
+| Area | Representative stack / capabilities |
 | --- | --- |
-| **Languages & data** | Python, R, SQL, Bash, Linux |
-| **Machine learning** | scikit-learn, PyTorch, classical/statistical ML, anomaly detection, clustering, time-series analysis, model evaluation, interpretability/XAI |
-| **Bioinformatics & genomics** | RNA-seq, transcriptomics, alternative splicing, alternative polyadenylation, NGS, genomic variation, molecular diagnostics, qPCR/PCR, NCBI/public genomic resources, Snakemake, Nextflow |
-| **Cloud & data platforms** | AWS, Databricks, Spark, S3, EC2, Lambda, ECR, ECS, Athena, SageMaker |
-| **Infrastructure & delivery** | Terraform, AWS CloudFormation, Docker, CI/CD, Git, GitHub, Bitbucket, Azure DevOps, APIs, ETL/data pipelines |
-| **Engineering focus** | reproducibility, testing, versioning, workflow design, systems integration, productionization, monitoring, technical review |
+| **Languages & scientific computing** | Python · R · SQL · Bash · Linux |
+| **ML, statistics & evaluation** | scikit-learn · PyTorch · classical/statistical ML · anomaly detection · clustering · time-series analysis · model evaluation · performance/drift monitoring · interpretability/XAI |
+| **Bioinformatics & genomics** | RNA-seq · transcriptomics · alternative splicing · alternative polyadenylation · NGS · genetic/variant analysis · molecular diagnostics · PCR/qPCR · Bioconductor · limma · DESeq2 · NCBI/public genomic resources |
+| **Cloud & data platforms** | AWS (S3 · EC2 · Lambda · ECR · ECS · Athena · SageMaker) · Databricks · Spark |
+| **Infrastructure & deployment** | Terraform · AWS CloudFormation · Docker · containerized deployment · CI/CD · testing · versioning · monitoring |
+| **Workflow & data engineering** | Snakemake · Nextflow · APIs · ETL/data pipelines · event-driven workflows · systems integration |
+| **Source & delivery workflows** | Git · GitHub · Bitbucket · Azure DevOps (ADO) · pull-request/code-review workflows |
 
-I prefer choosing tools to fit the scientific and operational problem rather than treating a framework list as the goal.
+I prefer choosing and integrating tools to fit the scientific and operational problem rather than treating a framework list as the goal.
 
 ---
 
