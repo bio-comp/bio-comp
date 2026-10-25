@@ -1,4 +1,4 @@
-# Michael J. Hamilton
+# Mike Hamilton
 
 ### AI Technical Leader | Genomics & Healthcare | Model Evaluation & Applied Research
 
